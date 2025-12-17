@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Shivtanaya Choudhary
 
-<!--
-**Shivtanaya-2003/Shivtanaya-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Aspiring Java Developer  
+🌱 Currently learning Spring Boot & Backend Development  
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills
+- **Backend:** Java, SQL, JDBC
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, jQuery
+- **Tools:** Git, GitHub, VS Code
+- **Others:** JSON, Basics of Node.js, C, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **Online Voting System)**
+- **Electronic Products Management System**
+- **Portfolio Website**
+- **RealEstate Chatbot**
+- **Simple eCommerce Website**
+
+### 🎯 Career Goal
+Looking for **Java Developer / Frontend Developer (Fresher)** opportunities.
+
+📫 **Email:** Schoudharytanaya005@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/shivtanaya-choudhary-172257245/
